@@ -1,5 +1,5 @@
 # Security-Papers
-Security papers about software vulnerabilities and exploits in recent top conferences.
+Security papers about software vulnerabilities, exploits and defenses in recent top conferences.
 
 ## 2018
 
