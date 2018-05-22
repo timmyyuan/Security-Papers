@@ -1,7 +1,7 @@
 # Security-Papers
 Security papers about software vulnerabilities, exploits and defenses in recent top conferences.
 
-**keywords :** memory safety, exploits, attck and defense, machine learning 
+**keywords :** memory safety, exploits, attck and defense
 
 ## 2018
 
@@ -30,23 +30,39 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 ### NDSS
 
 * SafeInit : Comprehensive and Practical Mitigation of Uninitialized Read Vulnerableabilities
+* Dachshund: Digging for and Securing (Non-)Blinded Constants in JIT Code
+* MARX: Uncovering Class Hierarchies in C++ Programs
+* PT-Rand: Practical Mitigation of Data-only Attacks against Page Tables
+* ASLR on the Line:  Practical Cache Attacks on the MMU
+* Unleashing Use-Before-Initialization Vulnerabilities in the Linux Kernel Using Targeted Stack Spraying
+* Address Oblivious Code Reuse: On the Effectiveness of Leakage Resilient Diversity
+* An Evil Copy: How the Loader Betrays You
+* Stack Object Protection with Low Fat Pointers
+* Self Destructing Exploit Executions via Input Perturbation
+* A Call to ARMs: Understanding the Costs and Benefits of JIT Spraying Mitigations
 
 ### Oakland (S&P)
 
 * Sok: Science, Security, and the Elusive Goal of Security as a scientific Pursite
 * Stack Overflow Considered Harmful ?  — The Impact of copy & Paste on Android Application Security
 * You Exploit is Mine : Automatic Shellcode Transplant for Remote Exploits
+* Finding and Preventing Bugs in JavaScript Bindings
 
 ### USENIX Security
 
 * Efficient Protection of Path-Sensitive Control Security
 * Hacking in Darkness: Return-oriented Programming against Secure Enclaves
 * Towards Efficient Heap Overflow Discovery
+* Understanding the Mirai Botnet
 
 ### CCS
 
 * FreeGuard : A Faster Secure Heap Allocator
 * The Dynamics of Innocent Flesh on the Bone : Code Reuse Then years Later
+* Capturing Malware Propagations with Code Injections and Code-Reuse attacks
+* Code-reuse attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets
+* Object Flow Integrity
+* PtrSplit: Supporting General Pointers in Automatic Program Partitioning
 
 ## 2016
 
@@ -63,6 +79,9 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 
 * Sok : (State of) The Art of War : Offensive Techniques in Binary Analysis
 * Data-Oriented Programming : On the Expressivenss of Non-Control Data Attacks
+* A Tough call: Mitigating Advanced Code-Reuse Attacks At The Binary Level
+* Dedup Est Machina: Memory Deduplication as an Advanced Exploitation Vector
+* Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code-Inference Attacks
 
 ### USENIX Security
 
