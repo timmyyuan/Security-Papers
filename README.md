@@ -10,11 +10,20 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 * Automated Generation of Event-Oriented Exploits in Android Hybrid Apps
 * VulDeePecker: A Deep Learning-Based System for Vulnerability Detection
 * CFIXX : Object Type Integrity of c++
+* K-Miner: Uncovering Memory Corruption in Linux
+* Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets.
+* Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing. 
+* SYNODE: Understanding and Automatically Preventing Injection Attacks on NODE.JS.
+* JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks.
 
 ### Oakland (S&P)
 
-* SoK : Security and  Privacy in Machine Learning
-* Position-independent Code reuse : On the Effectiveness of ASLR in the Absence of Information Disclosure
+* Compiler-assisted Code Randomization
+* Hackers vs. Testers: A Comparison of Software Vulnerability Discovery Processes
+* Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
+* Protecting the Stack with Metadata Policies and Tagged Hardware
+* **(European S&P)** SoK : Security and  Privacy in Machine Learning
+* **(European S&P)** Position-independent Code reuse : On the Effectiveness of ASLR in the Absence of Information Disclosure
 
 ## 2017
 
