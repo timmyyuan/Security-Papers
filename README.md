@@ -1,6 +1,7 @@
 # Security-Papers
 Security papers about software vulnerabilities, exploits and defenses in recent top conferences.
-keywords : memory safety, exploits, attck and defense, machine learning 
+
+**keywords :** memory safety, exploits, attck and defense, machine learning 
 
 ## 2018
 
