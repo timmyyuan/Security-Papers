@@ -1,5 +1,6 @@
 # Security-Papers
 Security papers about software vulnerabilities, exploits and defenses in recent top conferences.
+keywords : memory safety, exploits, attck, machine learning 
 
 ## 2018
 
@@ -54,6 +55,18 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 * Undermining Information Hiding (and What to Do about It)
 * Poking Holes information Hiding
 * What Cannot Be Read Cannot Leveraged? Revisiting Assumptions of JIT-ROP Defenses
+
+### CCS
+
+* CREDAL: Towards Locating a Memory Corruption Vulnerability with Your Core Dump
+* Twice the Bits, Twice the Trouble: Vulnerabilities Induced by Migrating to 64-Bit Platforms
+* Chainsaw: Chained Automated Workflow-based Exploit Generation
+* Build It, Break It, Fix It: Contesting Secure Development
+* An In-Depth Study of More Than Ten Years of Java Exploitation
+* On Code Execution Tracking via Power Side-Channel
+* Error Handling of In-vehicle Networks Makes Them Vulnerable
+* Generic Attacks on Secure Outsourced Databases
+* Lurking Malice in the Cloud: Understanding and Detecting Cloud Repository as a Malicious Service
 
 ## 2015
 
