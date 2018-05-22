@@ -1,6 +1,6 @@
 # Security-Papers
 Security papers about software vulnerabilities, exploits and defenses in recent top conferences.
-keywords : memory safety, exploits, attck, machine learning 
+keywords : memory safety, exploits, attck and defense, machine learning 
 
 ## 2018
 
@@ -92,3 +92,16 @@ keywords : memory safety, exploits, attck, machine learning
 ### USENIX Security
 
 * Automatic Generation of Data-oriented exploits
+
+### CCS
+* Cracking App Isolation on Apple: Unauthorized Cross-App Resource Access on MAC OS X and iOS
+* It's a TRAP: Table Randomization and Protection against Function Reuse Attacks
+* Heisenbyte: Thwarting Memory Disclosure Attacks using Destructive Code Reads
+* Timely Rerandomization for Mitigating Memory Disclosures
+* ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks
+* Static Detection of Packet Injection Vulnerabilities --- A Case for Identifying Attacker-controlled Implicit Information Leaks
+* Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths
+* VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits
+* Symbolic Execution of Obfuscated Code
+* Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow Integrity
+* The Spy in the Sandbox: Practical Cache Attacks in Javascript and their Implications
