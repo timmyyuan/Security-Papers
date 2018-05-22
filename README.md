@@ -54,6 +54,10 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 
 * How to Make ASLR win the Clone Wars: Runtime Re-Randomization
 * Leakage-Resilient Layout Randomization for Mobile Devices
+* CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities
+* You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity in the Wild
+* Protecting C++ Dynamic Dispatch Through VTable Interleaving
+* Enforcing Kernel Security Invariants with Data Flow Integrity
 
 ### Oakland (S&P)
 
@@ -98,9 +102,11 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 * Counterfeit Object-oriented Programming: On the Difficult of Preventing Code Reuse Attacks in C++ Applications
 * Readactor : Practical Code Randomization Resilient to Memory Disclosure
 * Missing the Point(er): On the Effectiveness of Code Pointer Integrity
+* Automatic Inference of Search Patterns for Taint-Style Vulnerabilities
 
 ### USENIX Security
 
+* Compiler-instrumented, Dynamic Secret-Redaction of Legacy Processes for Attacker Deception
 * Automatic Generation of Data-oriented exploits
 
 ### CCS
