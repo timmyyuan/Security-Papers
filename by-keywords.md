@@ -25,6 +25,7 @@ Papers on recent top security conferences
 
 * **(NDSS 2018)** CFIXX : Object Type Integrity of c++
 * **(NDSS 2017)** Stack Object Protection with Low Fat Pointers
+* **(NDSS 2015)** Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow Integrity
 
 ### Memory allocation mechanism
 
