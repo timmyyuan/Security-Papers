@@ -1,7 +1,5 @@
 # Security Papers About Machine Learning
 
-## 2018
+## Oakland
 
-### Oakland
-
-* Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
+* **(2018)** Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
