@@ -3,6 +3,7 @@
 ### NDSS
 
 * **(2018)** CFIXX : Object Type Integrity of c++
+* **(2018)** Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets.
 * **(2017)** Stack Object Protection with Low Fat Pointers
 
 ### CCS
