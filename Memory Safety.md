@@ -4,7 +4,7 @@
 
 * **(2018)** CFIXX : Object Type Integrity of c++
 * **(2018)** Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets.
-  * <font face="Times">BATE attack addresses the weakness that the MSVC compiler would not align all instructions in executables and dynamic link libraries, which makes programs protected by Control Flow Guard flows to invaild address such as epilogues. Using those pop-ret instructions in epilogues, the attack decomposes the control flow integrity and chains ROP attack to achieve control flow haijack.</font>
+  * <font size='-2' face="Times">BATE attack addresses the weakness that the MSVC compiler would not align all instructions in executables and dynamic link libraries, which makes programs protected by Control Flow Guard flows to invaild address such as epilogues. Using those pop-ret instructions in epilogues, the attack decomposes the control flow integrity and chains ROP attack to achieve control flow haijack.</font>
 * **(2017)** Stack Object Protection with Low Fat Pointers
 
 ### CCS
