@@ -18,4 +18,5 @@
 
 ### USENIX Security
 
+* **(2015)** Automatic Generation of Data-oriented exploits
 * **(2014)** Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM
