@@ -8,6 +8,7 @@
 
 ### CCS
 
+* **(2017)** FreeGuard : A Faster Secure Heap Allocator
 * **(2015)** Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow Integrity
 
 ### Oakland
