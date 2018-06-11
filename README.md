@@ -12,7 +12,7 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 * CFIXX : Object Type Integrity of c++
 * K-Miner: Uncovering Memory Corruption in Linux
 * Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets.
-* ~~Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing.~~
+* Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing.
 * SYNODE: Understanding and Automatically Preventing Injection Attacks on NODE.JS.
 * JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks.
 
