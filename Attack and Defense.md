@@ -9,3 +9,6 @@
 ## ACSAC
 
 * **(2010)** G-Free: Defeating Return-Oriented Programming through Gadget-less Binaries
+
+## CCS
+* **(2017)** The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later
