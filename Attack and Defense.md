@@ -16,4 +16,4 @@
 
 ## Oakland
 
-* **(2015)** Readactor: Practical Code Randomization Resilientto Memory Disclosure.
+* **(2015)** Readactor: Practical Code Randomization Resilient to Memory Disclosure.
