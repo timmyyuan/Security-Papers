@@ -18,3 +18,4 @@
 
 * **(2015)** Readactor: Practical Code Randomization Resilient to Memory Disclosure.
 * **(2013)** Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization
+> Since the memory address randomization be well-accepted, multiple memory disclosures has been necessary to craft a ROP attack. This paper programms adversary routines just-in-time to replace the hard code wrote by experienced attackers， which shatters the illusion of fine-grained randomization migitation defences.
