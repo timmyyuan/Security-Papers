@@ -5,7 +5,7 @@
 * **(2018)** Automated Generation of Event-Oriented Exploits in Android Hybrid Apps
 * **(2018)** JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks
 * **(2018)** SYNODE: Understanding and Automatically Preventing Injection Attacks on NODE.JS.
-* **(2018)** Leakage-Resilient Layout Randomization for Mobile Devices
+* **(2016)** Leakage-Resilient Layout Randomization for Mobile Devices
 
 ## ACSAC
 
