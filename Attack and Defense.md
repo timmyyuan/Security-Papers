@@ -17,3 +17,4 @@
 ## Oakland
 
 * **(2015)** Readactor: Practical Code Randomization Resilient to Memory Disclosure.
+* **(2015)** Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization
