@@ -19,7 +19,7 @@
 ### USENIX Security
 
 * **(2015)** Automatic Generation of Data-oriented exploits
-> Ever since the control flow haijack has been diffcult to decompose the modern security defenses, data becomes a more feasible attack surface for adversaries. This paper introduced a new approach namely Data Flow Stitch and its implementation FlowStitch, which modifies the noraml data flow to craft information leak and privilege escalation. Based on known vulnerabilities (i.e., buffer overflow and string format vulnerability), Data Flow Stitch selects and filters candidates (i.e., data edges) to stitch vaild data-oriented attacks and be practical on 32-bit and 64-bit programs even under the ASLR.
+> Ever since the control flow haijack has been diffcult to undermine the modern security defenses, data becomes a more feasible attack surface for adversaries. This paper introduced a new approach namely Data Flow Stitch and its implementation FlowStitch, which modifies the noraml data flow to craft information leak and privilege escalation. Based on known vulnerabilities (i.e., buffer overflow and string format vulnerability), Data Flow Stitch selects and filters candidates (i.e., data edges) to stitch vaild data-oriented attacks and be practical on 32-bit and 64-bit programs even under the ASLR.
 * **(2014)** Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM
 
 ### ASE
