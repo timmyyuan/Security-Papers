@@ -3,7 +3,7 @@
 ### NDSS
 
 * **(2018)** CFIXX : Object Type Integrity of c++
-> To avoid object corruption (e.g. when attcker try to construct a fake virtual table), the author separate (using hash like page tables) the vtable pointer from the object allocation (that is, this pointer) to a additional metadata area protected by Intel MPX. When programs being executed, all the virual function calls will be checked according the metadata area. The approach can significant improve the weakness of the well-accepted coarse-grained CFI and the overhead is lower than 2% even in chrome.
+> To avoid object corruption (e.g. when attcker try to construct a fake virtual table), the author separate (using hash like page tables) the vtable pointer from the object allocation (that is, this pointer) to a additional metadata area protected by Intel MPX. When programs being executed, all the virual function calls will be checked according the metadata area. This approach can significant improve the weakness of the well-accepted coarse-grained CFI and the overhead is lower than 2% even in chrome.
 * **(2018)** Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets.
 > BATE attack addresses the weakness that the MSVC compiler would not align all instructions in executables and dynamic link libraries, which makes programs protected by Control Flow Guard flows to invaild address such as epilogues. Using those pop-ret instructions in epilogues, the attack decomposes the control flow integrity and further chains ROP gadgets to haijack control flows.
 * **(2017)** Stack Object Protection with Low Fat Pointers
