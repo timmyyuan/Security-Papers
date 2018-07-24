@@ -24,4 +24,4 @@
 
 ## USENIX Security
 
-* **(2016)** What Cannot be Read, Cannot be Leveraged? 
+* **(2016)** What Cannot Be Read, Cannot Be Leveraged? Revisiting Assumptions of JIT-ROP Defenses
