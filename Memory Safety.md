@@ -11,8 +11,8 @@
 ### CCS
 
 * **(2017)** FreeGuard : A Faster Secure Heap Allocator
-  * (reading 1995) Dynamic Storage Allocation: A Survey and Critical Review
   * (reading 1994) The Slab Allocator: An Object-Caching Kernel Memory Allocator
+  * (reading 1995) Dynamic Storage Allocation: A Survey and Critical Review
   * (reading 2015) Understanding glibc malloc
 * **(2015)** Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow Integrity
 
