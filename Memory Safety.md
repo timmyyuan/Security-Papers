@@ -15,6 +15,7 @@
   * (reading 1995) Dynamic Storage Allocation: A Survey and Critical Review
   * (reading 2015) Understanding glibc malloc
 * **(2015)** Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow Integrity
+* **(2015)** The Performance Cost of Shadow Stacks and Stack Canaries
 
 ### Oakland
 
@@ -29,3 +30,7 @@
 ### ASE
 
 * **(2017)** Automatically Assessing Crashes from Heap Overflows
+
+### RAID
+
+* **(2012)** The Last Mile: An Empirical Study of Timing Channels on seL4
