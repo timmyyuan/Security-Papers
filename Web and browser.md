@@ -1,6 +1,6 @@
 # Web and browser
 
-### Oakaland
+### Oakland
 * **(2017)** IVD: Automatic Learning and Enforcement of Authorization Rules in Online Social Networks
 
 ## Chromium
