@@ -8,3 +8,9 @@
 * **(2017)** SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices
 * **(2016)** No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis
 * **(2016)** SoK: Lessons Learned From Android Security Research For Appified Software Platforms
+
+### CCS
+* **(2012)** CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities
+
+### OSDI
+* **(2010)** TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones
