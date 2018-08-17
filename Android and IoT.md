@@ -8,8 +8,12 @@
 * **(2017)** SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices
 * **(2016)** No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis
 * **(2016)** SoK: Lessons Learned From Android Security Research For Appified Software Platforms
+* **(2015)** Effective Real-time Android Application Auditing
+* **(2015)** What the App is That? Deception and Countermeasures in the Android User Interface
+* **(2015)** Leave Me Alone: App-level Protection Against Runtime Information Gathering on Android
 
 ### CCS
+* **(2017)** 
 * **(2012)** CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities
 
 ### OSDI
