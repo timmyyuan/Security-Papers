@@ -30,7 +30,7 @@
 * **(2015)** Counterfeit Object-oriented Programming: On the Difficult of Preventing Code Reuse Attacks in C++ Applications
 * **(2015)** Readactor: Practical Code Randomization Resilient to Memory Disclosure.
 * **(2013)** Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space Layout Randomization
-> Since the memory address randomization be well-accepted, multiple memory disclosures has been necessary to craft a ROP attack. Based on this observation, the paper programms adversary routines just-in-time to replace the hard code wrote by experienced attackers， which shatters the illusion of fine-grained randomization migitation defences.
+> Since the memory address randomization be well-accepted, multiple memory disclosures has been necessary to craft a ROP attack. Based on this observation, the paper programms adversary routines just-in-time to replace the hard code wrote by experienced attackers. In theory, JIT-ROP shatters the illusion of fine-grained randomization migitation defences.
 
 ### USENIX Security
 
