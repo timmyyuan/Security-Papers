@@ -15,6 +15,16 @@
 * **(2017)** Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers (Meng Luo, Oleksii Starov, Nima Honarmand, Nick Nikiforakis)
 * **(2017)** Deterministic Browser
 * **(2017)** Most Websites Don't Need to Vibrate: A Cost-Benefit Approach to Improving Browser Security
+* **(2017)** Tail Attacks on Web Applications
+* **(2017)** Let’s Go in for a Closer Look: Observing Passwords in Their Natural Habitat
+* **(2017)** How Unique is Your .onion? An Analysis of the Fingerprintability of Tor Onion Services
+* **(2017)** Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors
+* **(2017)** Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting
+* **(2017)** The Wolf of Name Street: Hijacking Domains Through Their Nameservers
+* **(2017)** Automated Crowdturfing Attacks and Defenses in Online Review Systems
+* **(2017)** Data Breaches, Phishing, or Malware? Understanding the Risks of Stolen Credentials
+* **(2017)** Code-reuse attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets
+
 
 ### Chromium
 * **(2008)** The Security Architecture of the Chromium Browser.
