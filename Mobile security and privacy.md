@@ -1,4 +1,6 @@
-# Android and IoT
+# Mobile security and privacy
+
+keywords: Android, mobie device, IoT, AI, social nerwork
 
 ### Oakland
 
@@ -13,7 +15,13 @@
 * **(2015)** Leave Me Alone: App-level Protection Against Runtime Information Gathering on Android
 
 ### CCS
-* **(2017)** 
+* **(2017)** Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers
+* **(2017)** DolphinAttack: Inaudible Voice Commands
+* **(2017)** walk2friends: Inferring Social Links from Mobility Profiles
+* **(2017)** Vulnerable Implicit Service: A Revisit
+* **(2017)** Keep me Updated: An Empirical Study of Third-Party Library Updatability on Android
+* **(2017)** A Stitch in Time: Supporting Android Developers in Writing Secure Code
+* **(2017)** Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews
 * **(2012)** CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities
 
 ### OSDI
