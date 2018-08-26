@@ -32,6 +32,16 @@ keywords: Android, mobie device, IoT, AI, social nerwork
 * **(2016)** Computational Soundness for Dalvik Bytecode
 * **(2016)** Return-Oriented Flush-Reload Side Channels on ARM and Their Implications for Android Devices
 * **(2016)** When CSI Meets Public WiFi: Inferring Your Mobile Phone Password via WiFi Signals
+* **(2015)** Cracking App Isolation on Apple: Unauthorized Cross-App Resource Access on MAC OS X and iOS
+* **(2015)** iRiS: Vetting Private API Abuse in iOS Applications
+* **(2015)** GUITAR: Piecing Together Android App GUIs from Memory Images
+* **(2015)** VCR: App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images
+* **(2015)** Towards Automatic Generation of Security-Centric Descriptions for Android Apps
+* **(2015)** From System Services Freezing to System Server Shutdown in Android: All You Need Is a Loop in an Application
+* **(2015)** AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications
+* **(2015)** Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute References
+* **(2015)** Perplexed Messengers from the Cloud: Automated Security Analysis of Push-Messaging Integrations
+* **(2015)** When Good Becomes Evil: Keystroke Inference with Smartwatch
 * **(2012)** CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities
 
 ### OSDI
