@@ -24,7 +24,12 @@
 * **(2017)** Automated Crowdturfing Attacks and Defenses in Online Review Systems
 * **(2017)** Data Breaches, Phishing, or Malware? Understanding the Risks of Stolen Credentials
 * **(2017)** Code-reuse attacks for the Web: Breaking Cross-Site Scripting Mitigations via Script Gadgets
-
+* **(2016)** Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem
+* **(2016)** Chainsaw: Chained Automated Workflow-based Exploit Generation
+* **(2016)** CSPAutoGen: Black-box Enforcement of Content Security Policy upon Real-world Websites
+* **(2016)** "The Web/Local" Boundary Is Fuzzy: A Security Study of Chrome's Process-based Sandboxing
+* **(2016)** Breaking Web Applications Built On Top of Encrypted Data
+* **(2016)**
 
 ### Chromium
 * **(2008)** The Security Architecture of the Chromium Browser.
