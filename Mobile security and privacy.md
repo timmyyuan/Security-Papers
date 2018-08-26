@@ -22,6 +22,16 @@ keywords: Android, mobie device, IoT, AI, social nerwork
 * **(2017)** Keep me Updated: An Empirical Study of Third-Party Library Updatability on Android
 * **(2017)** A Stitch in Time: Supporting Android Developers in Writing Secure Code
 * **(2017)** Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews
+* **(2016)** Call Me Back!: Attacks on System Server and System Apps in Android through Synchronous Callback
+* **(2016)** The Misuse of Android Unix Domain Sockets and Security Implications
+* **(2016)** Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android
+* **(2016)** TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime
+* **(2016)** Statistical Deobfuscation of Android Applications
+* **(2016)** Reliable Third-Party Library Detection in Android and its Security Applications
+* **(2016)** SandScout: Automatic Detection of Flaws in iOS Sandbox Profiles
+* **(2016)** Computational Soundness for Dalvik Bytecode
+* **(2016)** Return-Oriented Flush-Reload Side Channels on ARM and Their Implications for Android Devices
+* **(2016)** When CSI Meets Public WiFi: Inferring Your Mobile Phone Password via WiFi Signals
 * **(2012)** CHEX: Statically Vetting Android Apps for Component Hijacking Vulnerabilities
 
 ### OSDI
