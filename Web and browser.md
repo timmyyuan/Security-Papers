@@ -29,7 +29,14 @@
 * **(2016)** CSPAutoGen: Black-box Enforcement of Content Security Policy upon Real-world Websites
 * **(2016)** "The Web/Local" Boundary Is Fuzzy: A Security Study of Chrome's Process-based Sandboxing
 * **(2016)** Breaking Web Applications Built On Top of Encrypted Data
-* **(2016)**
+* **(2015)** WebCapsule: Towards a Lightweight Forensic Engine for Web Browsers
+* **(2015)** FlowWatcher: Defending against Data Disclosure Vulnerabilities in Web Applications
+* **(2015)** Detecting and Exploiting Second Order Denial-of-Service Vulnerabilities in Web Applications
+* **(2015)** Inlined Information Flow Monitoring for JavaScript
+* **(2015)** The Clock is Still Ticking: Timing Attacks in the Modern Web
+* **(2015)** Cross-Site Search Attacks
+* **(2015)** The Spy in the Sandbox: Practical Cache Attacks in Javascript and their Implications
+* **(2015)** From Facepalm to Brain Bender: Exploring Client-Side Cross-Site Scripting
 
 ### Chromium
 * **(2008)** The Security Architecture of the Chromium Browser.
