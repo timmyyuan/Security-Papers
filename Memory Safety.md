@@ -16,6 +16,7 @@
 
 ### CCS
 
+* **(2018)** Block Oriented Programming: Automating Data-Only Attacks
 * **(2017)** FreeGuard : A Faster Secure Heap Allocator
   * (reading 1994) The Slab Allocator: An Object-Caching Kernel Memory Allocator
   * (reading 1995) Dynamic Storage Allocation: A Survey and Critical Review
