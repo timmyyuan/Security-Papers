@@ -1,5 +1,9 @@
 # Web and browser
 
+### USENIX
+* **(2018)** NAVEX: Precise and scalable exploit generation for dynamic web applications
+  * automatic exploits generation, code property graph, conclic execution, SQL injection, XSS, EAR
+  
 ### Oakland
 * **(2018)** Mobile Application Web API Reconnaissance: Web-to-Mobile Inconsistencies & Vulnerabilities
 * **(2017)** IVD: Automatic Learning and Enforcement of Authorization Rules in Online Social Networks
@@ -41,3 +45,7 @@
 ### Chromium
 * **(2008)** The Security Architecture of the Chromium Browser.
 * **(2009 Oakland)** Native Client: A Sandbox for Portable, Untrusted x86 Native Code.
+
+### ACM Computing Surveys
+* **(2017)** Surviving the Web: A Journey into Web Session Security
+  * attack and protection on web session, web attacker, network attacker, Content injection, XSS, CSFR, SOP, HttpOnly
