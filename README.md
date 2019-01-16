@@ -144,129 +144,16 @@ Security papers about software vulnerabilities, exploits and defenses in recent 
 # Web-Papers
 papers involved web security,web techonlogies, concurrency and program analysis, etc.
 
-
-# 2017
-
-##CCS
-
-* Deterministic Browser
-* Rewriting History: Changing the Archived Web from the Present
-* Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse
-* Deemon: Detecting CSRF with Dynamic Analysis and Property Graphs
-* Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers
-* Don't Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains
-* Tail Attacks on Web Applications
-* Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting 
-* Most Websites Don't Need to Vibrate: A Cost-Benefit Approach to Improving Browser Security
-
-##USENIX Security
-
-* Same-Origin Policy: Evaluation in Modern Browsers
-* CCSP: Controlled Relaxation of Content Security Policies by Runtime Policy Composition
-* Loophole: Timing Attacks on Shared Event Loops in Chrome
-* PDF Mirage: Content Masking Attack Against Information-Based Online Services
-* Game of Registrars: An Empirical Analysis of Post-Expiration Domain Name Takeovers
-* Measuring the Insecurity of Mobile Deep Links of Android
-* How the Web Tangled Itself: Uncovering the History of Client-Side Web (In)Security
-* Extension Breakdown: Security Analysis of Browsers Extension Resources Control Policies
-* Exploring User Perceptions of Discrimination in Online Targeted Advertising
-
-##TIFS
-
-* Scalable Anti-Censorship Framework Using Moving Target Defense for Web Servers
-
-##TSE
-
-* A Study of Causes and Consequences of Client-Side JavaScript Bugs
-* AutoSense: A Framework for Automated Sensitivity Analysis of Program Data
-* A Survey of App Store Analysis for Software Engineering
-
-##PLDI
-
-* Bringing the Web up to Speed with WebAssembly
-
-##FSE
-
-* Probabilistic Model Checking of Perturbed MDPs with Applications to Cloud Computing
-* Thread-Modular Static Analysis for Relaxed Memory Models
-* AtexRace: Across Thread and Execution Sampling for In-House Race Detection
-* A fast causal profiler for task parallel programs
-* Reproducing Concurrency Failures from Crash Stacks
-* Craig vs. Newton in Software Model Checking
-* Automatic Generation of Inter-Component Communication Exploits for Android Applications
-* DESCRY: Reproducing System-Level Concurrency Failures
-
-##TDSC
-
-* Generic Soft-Error Detection and Correction for Concurrent Data Structures
-
-##S&P
-
-* Finding and Preventing Bugs in JavaScript Bindings
-
-##OOPSLA
-
-* Model Checking Copy Phases of Concurrent Copying Garbage Collection with Various Memory Models
-* Practical Initialization Race Detection for JavaScript Web Applications
-* Deadlock Avoidance in Parallel Programs with Futures: Why Parallel Tasks Should Not Wait for Strangers
-* Skip Blocks: Reusing Execution History to Accelerate Web Scripts
-* Instrumentation Bias for Dynamic Data Race Detection
-* A Volatile-by-Default JVM for Server Applications
-
-##NDSS
-
-* Enabling Reconstruction of Attacks on Users via Efficient Browsing Snapshots
-* (Cross-)Browser Fingerprinting via OS and Hardware Level Features
-* Fake Co-visitation Injection Attacks to Recommender Systems
-* Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web
-
-##PPoPP
-
-* Tapir: Embedding Fork-Join Parallelism into LLVM’s Intermediate Representation
-
-##SOSP
-
-* Diamond: Automating Data Management and Storage for Wide-Area, Reactive Applications
-* Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
-* Canopy: An End-to-End Performance Tracing And Analysis System
-* Lazy Diagnosis of In-Production Concurrency Bugs
-* The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web
-* Pensieve: Non-Intrusive Failure Reproduction for Distributed Systems using the Event Chaining Approach
-* Realizing the Fault-Tolerance Promise of Cloud Storage Using Locks with Intent
-
-##ISSTA
-
-* Test Execution Checkpointing for Web Applications
-* Automated Layout Failure Detection for Responsive Web Pages without an Explicit Oracle
-* Testing and Analysis of Web Applications using Page Models
-
-##ICSE
-
-* Finding and Evaluating the Performance Impact of Redundant Data Access for Applications Using ORM
-* ZenIDS: Introspective Intrusion Detection for PHP Applications
-* Statically Checking Web API Requests in JavaScript
-* On Cross-stack Configuration Errors
-* To Type or Not to Type: Quantifying Preventable Bugs in JavaScript
-* RClassify: Classifying Race Conditions in Web Applications via Deterministic Replay
-
 # 2016
 
-##CCS
+## NDSS
 
-* CSPAutoGen: Black-box Enforcement of Content Security Policy upon Real-world Websites
-* Chainsaw: Chained Automated Workflow-based Exploit Generation
-* Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem
+* Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces
+* Attack Patterns for Black-Box Security Testing of Multi-Party Web Applications
+* It’s Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services
+* CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities
 
-##USENIX Security
-
-* Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability Notification
-* Tracing Information Flows Between Ad Exchanges Using Retargeted Ads
-* Request and Conquer: Exposing Cross-Origin Resource Size
-* Trusted Browsers for Uncertain Times
-* You've Got Vulnerability: Exploring Effective Vulnerability Notifications
-* Internet Jones and the Raiders of the Lost Trackers: An Archaeological Study of Web Tracking from 1996 to 2016
-
-##TSE
+## TSE
 
 * Parallel Performance Problems on Shared-Memory Multicore Systems: Taxonomy and Observation
 * Probabilistic Model Checking of Regenerative Concurrent Systems
@@ -275,12 +162,54 @@ papers involved web security,web techonlogies, concurrency and program analysis,
 * Model Checking Software with First Order Logic Specifications Using AIG Solvers
 * A Lightweight System for Detecting and Tolerating Concurrency Bugs
 
-##PLDI
+## ISSTA
 
-* GreenWeb: Language Extensions for Energy-Efficient Mobile Web Computing
-* Precise, Dynamic Information Flow for Database-Backed Applications
+* Optimal Sanitization Synthesis for Web Application Vulnerability Repair
+* Automated and Effective Testing of Web Services for XML Injection Attacks
+* ARROW: Automated Repair of Races on Client-Side Web Pages
+* DEKANT: A Static Analysis Tool That Learns to Detect Web Application Vulnerabilities
 
-##FSE
+## CCS
+
+* CSPAutoGen: Black-box Enforcement of Content Security Policy upon Real-world Websites
+* Chainsaw: Chained Automated Workflow-based Exploit Generation
+* Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem
+
+## ICSE
+
+* calable Thread Sharing Analysis
+* Coverage-Driven Test Code Generation for Concurrent Classes
+* Finding Security Bugs in Web Applications Using a Catalog of Access Control Patterns
+* Feedback-Directed Instrumentation for Deployed JavaScript Applications
+* Locking Discipline Inference and Checking
+
+## USENIX Security
+
+* Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability Notification
+* Tracing Information Flows Between Ad Exchanges Using Retargeted Ads
+* Request and Conquer: Exposing Cross-Origin Resource Size
+* Trusted Browsers for Uncertain Times
+* You've Got Vulnerability: Exploring Effective Vulnerability Notifications
+* Internet Jones and the Raiders of the Lost Trackers: An Archaeological Study of Web Tracking from 1996 to 2016
+
+## TDSC
+
+* Inference Attack on Browsing History of Twitter Users Using Public Click Analytics and Twitter Metadata
+
+## S&P
+
+* Cloak of Visibility: Detecting When Machines Browse a Different Web
+* Domain-Z: 28 Registrations Later
+* The Cracked Cookie Jar: HTTP Cookie Hijacking and the Exposure of Private Information
+* MitM Attack by Name Collision: Cause Analysis and Vulnerability Assessment in the New gTLD Era
+* Seeking Nonsense, Looking for Trouble: Efficient Promotional-Infection Detection through Semantic Inconsistency Search
+
+## OOPSLA
+
+* Automated Reasoning for Web Page Layout
+* Ringer: Web Automation by Demonstration
+
+## FSE
 
 * Understanding and Generating High Quality Patches for Concurrency Bugs
 * Flow-Sensitive Composition of Thread-Modular Abstract Interpretation
@@ -296,92 +225,140 @@ papers involved web security,web techonlogies, concurrency and program analysis,
 * Atlas: An Intelligent, Performant Framework for Web-Based Grid Computing
 * Online Shared Memory Dependence Reduction via Bisectional Coordination
 
-##TDSC
+## PLDI
 
-* Inference Attack on Browsing History of Twitter Users Using Public Click Analytics and Twitter Metadata
+* GreenWeb: Language Extensions for Energy-Efficient Mobile Web Computing
+* Precise, Dynamic Information Flow for Database-Backed Applications
 
-##S&P
+# 2017
 
-* Cloak of Visibility: Detecting When Machines Browse a Different Web
-* Domain-Z: 28 Registrations Later
-* The Cracked Cookie Jar: HTTP Cookie Hijacking and the Exposure of Private Information
-* MitM Attack by Name Collision: Cause Analysis and Vulnerability Assessment in the New gTLD Era
-* Seeking Nonsense, Looking for Trouble: Efficient Promotional-Infection Detection through Semantic Inconsistency Search
+## NDSS
 
-##OOPSLA
+* Enabling Reconstruction of Attacks on Users via Efficient Browsing Snapshots
+* (Cross-)Browser Fingerprinting via OS and Hardware Level Features
+* Fake Co-visitation Injection Attacks to Recommender Systems
+* Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web
 
-* Automated Reasoning for Web Page Layout
-* Ringer: Web Automation by Demonstration
+## TSE
 
-##NDSS
+* A Study of Causes and Consequences of Client-Side JavaScript Bugs
+* AutoSense: A Framework for Automated Sensitivity Analysis of Program Data
+* A Survey of App Store Analysis for Software Engineering
 
-* Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces
-* Attack Patterns for Black-Box Security Testing of Multi-Party Web Applications
-* It’s Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services
-* CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities
+## ISSTA
 
-##ISSTA
+* Test Execution Checkpointing for Web Applications
+* Automated Layout Failure Detection for Responsive Web Pages without an Explicit Oracle
+* Testing and Analysis of Web Applications using Page Models
 
-* Optimal Sanitization Synthesis for Web Application Vulnerability Repair
-* Automated and Effective Testing of Web Services for XML Injection Attacks
-* ARROW: Automated Repair of Races on Client-Side Web Pages
-* DEKANT: A Static Analysis Tool That Learns to Detect Web Application Vulnerabilities
+## CCS
 
-##ICSE
+* Deterministic Browser
+* Rewriting History: Changing the Archived Web from the Present
+* Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse
+* Deemon: Detecting CSRF with Dynamic Analysis and Property Graphs
+* Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers
+* Don't Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains
+* Tail Attacks on Web Applications
+* Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting 
+* Most Websites Don't Need to Vibrate: A Cost-Benefit Approach to Improving Browser Security
 
-* calable Thread Sharing Analysis
-* Coverage-Driven Test Code Generation for Concurrent Classes
-* Finding Security Bugs in Web Applications Using a Catalog of Access Control Patterns
-* Feedback-Directed Instrumentation for Deployed JavaScript Applications
-* Locking Discipline Inference and Checking
+## TIFS
 
-# 2019
+* Scalable Anti-Censorship Framework Using Moving Target Defense for Web Servers
 
-##TIFS
+## ICSE
 
-* Sensor-Based Mobile Web Cross-Site Input Inference Attacks and Defenses
+* Finding and Evaluating the Performance Impact of Redundant Data Access for Applications Using ORM
+* ZenIDS: Introspective Intrusion Detection for PHP Applications
+* Statically Checking Web API Requests in JavaScript
+* On Cross-stack Configuration Errors
+* To Type or Not to Type: Quantifying Preventable Bugs in JavaScript
+* RClassify: Classifying Race Conditions in Web Applications via Deterministic Replay
+
+## SOSP
+
+* Diamond: Automating Data Management and Storage for Wide-Area, Reactive Applications
+* Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
+* Canopy: An End-to-End Performance Tracing And Analysis System
+* Lazy Diagnosis of In-Production Concurrency Bugs
+* The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web
+* Pensieve: Non-Intrusive Failure Reproduction for Distributed Systems using the Event Chaining Approach
+* Realizing the Fault-Tolerance Promise of Cloud Storage Using Locks with Intent
+
+## USENIX Security
+
+* Same-Origin Policy: Evaluation in Modern Browsers
+* CCSP: Controlled Relaxation of Content Security Policies by Runtime Policy Composition
+* Loophole: Timing Attacks on Shared Event Loops in Chrome
+* PDF Mirage: Content Masking Attack Against Information-Based Online Services
+* Game of Registrars: An Empirical Analysis of Post-Expiration Domain Name Takeovers
+* Measuring the Insecurity of Mobile Deep Links of Android
+* How the Web Tangled Itself: Uncovering the History of Client-Side Web (In)Security
+* Extension Breakdown: Security Analysis of Browsers Extension Resources Control Policies
+* Exploring User Perceptions of Discrimination in Online Targeted Advertising
+
+## TDSC
+
+* Generic Soft-Error Detection and Correction for Concurrent Data Structures
+
+## S&P
+
+* Finding and Preventing Bugs in JavaScript Bindings
+
+## PPoPP
+
+* Tapir: Embedding Fork-Join Parallelism into LLVM’s Intermediate Representation
+
+## OOPSLA
+
+* Model Checking Copy Phases of Concurrent Copying Garbage Collection with Various Memory Models
+* Practical Initialization Race Detection for JavaScript Web Applications
+* Deadlock Avoidance in Parallel Programs with Futures: Why Parallel Tasks Should Not Wait for Strangers
+* Skip Blocks: Reusing Execution History to Accelerate Web Scripts
+* Instrumentation Bias for Dynamic Data Race Detection
+* A Volatile-by-Default JVM for Server Applications
+
+## FSE
+
+* Probabilistic Model Checking of Perturbed MDPs with Applications to Cloud Computing
+* Thread-Modular Static Analysis for Relaxed Memory Models
+* AtexRace: Across Thread and Execution Sampling for In-House Race Detection
+* A fast causal profiler for task parallel programs
+* Reproducing Concurrency Failures from Crash Stacks
+* Craig vs. Newton in Software Model Checking
+* Automatic Generation of Inter-Component Communication Exploits for Android Applications
+* DESCRY: Reproducing System-Level Concurrency Failures
+
+## PLDI
+
+* Bringing the Web up to Speed with WebAssembly
 
 # 2018
 
-##CCS
+## TDSC
 
-* MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
-* How You Get Bullets in Your Back: A Systematical Study about Cryptojacking in Real-world
-* Pride and Prejudice in Progressive Web Apps: Abusing Native App-like Features in Web Applications
-* Clock Around the Clock: Time-Based Device Fingerprinting
-* Predicting Impending Exposure to Malicious Content from User Behavior
-* Mystique: Uncovering Information Leakage from Browser Extensions
-* Web’s Sixth Sense: A Study of Scripts Accessing Smartphone Sensors
+* Shadow Attacks Based on Password Reuses: A Quantitative Empirical Analysis
 
-##OSDI
+## ECOOP
 
-* Noria: dynamic, partially-stateful data-flow for high-performance web applications
-* Floem: A Programming System for NIC-Accelerated Network Applications
-* Orca: Differential Bug Localization in Large-Scale Services
-* Fault-Tolerance, Fast and Slow: Exploiting Failure Asynchrony in Distributed Systems
-* An Analysis of Network-Partitioning Failures in Cloud Systems
+* Type Regression Testing to Detect Breaking Changes in Node.js Libraries
 
-##TIFS
+## NDSS
 
-* Plausible Deniability in Web Search - From Detection to Assessment
+* Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations
+* JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks
+* Riding out DOMsday: Towards Detecting and Preventing DOM Cross-Site Scripting
+* SYNODE: Understanding and Automatically Preventing Injection Attacks on NODE.JS
 
-##TSE
+## TSE
 
 * On Accelerating Source Code Analysis at Massive Scale
 * Metamorphic Testing of RESTful Web APIs
 * A Survey of Recent Trends in Testing Concurrent Software Systems
 * Reviving Sequential Program Birthmarking for Multithreaded Software Plagiarism Detection
 
-##PLDI
-
-* CUBA: Interprocedural Context-UnBounded Analysis of Concurrent Programs
-* Verifying That Web Pages Have Accessible Layout
-* iReplayer: In-situ and Identical Record-and-Replay for Multithreaded Applications
-* BLeak: Automatically Debugging Memory Leaks in Web Applications
-* Putting in All the Stops: Execution Control for JavaScript
-* Systematic Black-Box Analysis of Collaborative Web Applications
-
-##USENIX Security
+## USENIX Security
 
 * O Single Sign-Off, Where Art Thou? An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web
 * Fp-Scanner: The Privacy Implications of Browser Fingerprint Inconsistencies
@@ -393,16 +370,35 @@ papers involved web security,web techonlogies, concurrency and program analysis,
 * Who Left Open the Cookie Jar? A Comprehensive Evaluation of Third-Party Cookie Policies
 * NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications
 
-##FSE
+## CCS
 
-* An empirical study on crash recovery bugs in large-scale distributed systems
-* Testing Multithreaded Programs via Thread Speed Control
+* MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+* How You Get Bullets in Your Back: A Systematical Study about Cryptojacking in Real-world
+* Pride and Prejudice in Progressive Web Apps: Abusing Native App-like Features in Web Applications
+* Clock Around the Clock: Time-Based Device Fingerprinting
+* Predicting Impending Exposure to Malicious Content from User Behavior
+* Mystique: Uncovering Information Leakage from Browser Extensions
+* Web’s Sixth Sense: A Study of Scripts Accessing Smartphone Sensors
 
-##TDSC
+## TIFS
 
-* Shadow Attacks Based on Password Reuses: A Quantitative Empirical Analysis
+* Plausible Deniability in Web Search - From Detection to Assessment
 
-##S&P
+## ASPLOS
+
+* Static Detection of Event-based Races in Android Apps
+* Unconventional Parallelization of Nondeterministic Applications
+* DATS – Refactoring Access Control Out of Web Applications
+
+## OSDI
+
+* Noria: dynamic, partially-stateful data-flow for high-performance web applications
+* Floem: A Programming System for NIC-Accelerated Network Applications
+* Orca: Differential Bug Localization in Large-Scale Services
+* Fault-Tolerance, Fast and Slow: Exploiting Failure Asynchrony in Distributed Systems
+* An Analysis of Network-Partitioning Failures in Cloud Systems
+
+## S&P
 
 * Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications
 * Mobile Application Web API Reconnaissance: Web-to-Mobile Inconsistencies & Vulnerabilities
@@ -411,7 +407,13 @@ papers involved web security,web techonlogies, concurrency and program analysis,
 * A Formal Treatment of Accountable Proxying over TLS
 * Tracking Certificate Misissuance in the Wild
 
-##OOPSLA
+## ICSE
+
+* How not to structure your database-backed web applications: a study of performance bugs in the wild
+* Automated Repair of Mobile Friendly Problems in Web Pages
+* Prioritizing Browser Environments for Web Application Test Execution
+
+## OOPSLA
 
 * Compositional Programming and Testing of Dynamic Distributed Systems
 * Sound deadlock prediction
@@ -421,25 +423,22 @@ papers involved web security,web techonlogies, concurrency and program analysis,
 * What Happens-After the First Race? Enhancing the Predictive Power of Happens-Before Based Dynamic Race Detection
 * RacerD: Compositional Static Race Detection
 
-##ECOOP
+## FSE
 
-* Type Regression Testing to Detect Breaking Changes in Node.js Libraries
+* An empirical study on crash recovery bugs in large-scale distributed systems
+* Testing Multithreaded Programs via Thread Speed Control
 
-##NDSS
+## PLDI
 
-* Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations
-* JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks
-* Riding out DOMsday: Towards Detecting and Preventing DOM Cross-Site Scripting
-* SYNODE: Understanding and Automatically Preventing Injection Attacks on NODE.JS
+* CUBA: Interprocedural Context-UnBounded Analysis of Concurrent Programs
+* Verifying That Web Pages Have Accessible Layout
+* iReplayer: In-situ and Identical Record-and-Replay for Multithreaded Applications
+* BLeak: Automatically Debugging Memory Leaks in Web Applications
+* Putting in All the Stops: Execution Control for JavaScript
+* Systematic Black-Box Analysis of Collaborative Web Applications
 
-##ASPLOS
+# 2019
 
-* Static Detection of Event-based Races in Android Apps
-* Unconventional Parallelization of Nondeterministic Applications
-* DATS – Refactoring Access Control Out of Web Applications
+## TIFS
 
-##ICSE
-
-* How not to structure your database-backed web applications: a study of performance bugs in the wild
-* Automated Repair of Mobile Friendly Problems in Web Pages
-* Prioritizing Browser Environments for Web Application Test Execution
+* Sensor-Based Mobile Web Cross-Site Input Inference Attacks and Defenses
