@@ -1,4 +1,4 @@
-# Web and browser
+# Web, Browser and Concurrency
 
 ### USENIX
 * **(2018)** NAVEX: Precise and scalable exploit generation for dynamic web applications
